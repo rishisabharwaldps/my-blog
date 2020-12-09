@@ -1,0 +1,19 @@
+h2{
+    color: blue;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;cursor: pointer;
+    color: black;   
+}
+iframe {
+    height: 100px;
+    width: 130px;
+}
+body {
+    background-color: darkorange;
+    text-align: center;
+}
